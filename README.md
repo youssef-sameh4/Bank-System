@@ -1,119 +1,93 @@
-Bank Project (OOP)
-Project Overview
+# 🏦 Bank Project (OOP)
 
-This project simulates a basic banking system using Object-Oriented Programming (OOP) principles. It requires users to log in with a valid username and password, and after successful login, they will have access to a Main Menu with various banking operations. If the user fails to enter correct credentials within three attempts, the program locks, ensuring security.
+## 📌 Project Overview
+This project simulates a basic **banking system** using **Object-Oriented Programming (OOP)** principles.  
+It includes a **login system**, **permissions with bitwise AND**, and a **Main Menu** with multiple banking operations.  
 
-The application also implements permissions using bitwise AND, which controls access to certain menu options. Users' permissions are managed based on their roles, and only those with the appropriate permissions can access certain functionalities.
+🔒 If a user enters incorrect login credentials three times, the system locks for security.
 
-Additionally, the project incorporates the following libraries to improve usability and functionality: String Library, Util Library, Date Library, and Validate Input Library.
-Features
-Login System
+The project also uses helper libraries: **String Library**, **Util Library**, **Date Library**, and **Validate Input Library**.
 
-    The system requires the user to input their username and password.
-    If the user enters the wrong credentials three times, the program locks for security purposes.
-    After successful login, the login time and user details are registered.
-    The Main Menu is then displayed with various options.
+---
 
-Permissions (Bitwise AND)
+## ✨ Features
 
-    Permissions for each user are controlled using bitwise AND operations.
-    Each menu option has a permission flag, and only users with the appropriate permission level can access certain actions.
-    Permissions are checked before allowing access to specific features, such as adding new clients or transferring funds.
+### 🔑 Login System
+- Requires username and password.
+- Locks after **3 failed attempts**.
+- Successful login records **login time** and user details.
+- Displays the **Main Menu**.
 
-Main Menu
+### 🛡️ Permissions (Bitwise AND)
+- Each menu option is protected with a **bitwise AND flag**.
+- Only users with correct permissions can access sensitive features.
+- Example: Only admins can manage users or transfer funds.
 
-The Main Menu includes the following 10 options:
+---
 
-    Client Screen
-        Displays information about clients in the system.
+## 📋 Main Menu Options
 
-    Add New Client
-        Allows users to add new clients by entering their details (e.g., name, account number, balance).
+1. **Client Screen** → View all clients.  
+2. **Add New Client** → Add clients (name, account number, balance).  
+3. **Delete Client** → Remove a client.  
+4. **Update Client Info** → Edit client details.  
+5. **Find Client** → Search by ID or name.  
+6. **Transactions**
+   - Deposit
+   - Withdraw
+   - Total Balances
+   - Transfer
+   - Transfer Log  
+7. **Manage Users**
+   - List Users
+   - Add User
+   - Delete User
+   - Update User Info
+   - Find User  
+8. **Login Register** → Manage usernames & passwords.  
+9. **Currency Exchange**
+   - List Currencies
+   - Find Currency
+   - Update Rate
+   - Currency Calculator  
+10. **Logout** → Return to login screen.  
 
-    Delete Client
-        Allows users to delete a client from the system.
+✅ Each submenu allows returning to the **Main Menu**.
 
-    Update Client Info
-        Users can update information of an existing client (e.g., change balance, contact info).
+---
 
-    Find Client
-        Search for a client by their ID or name.
+## 📚 Libraries Used
 
-    Transactions
-        This screen includes the following subscreens:
-            Deposit: Add funds to a client's account.
-            Withdraw: Remove funds from a client's account.
-            Total Balances: View the total balance of a client.
-            Transfer: Transfer funds between clients.
-            Transfer Log: View the history of transfers.
+- **String Library** → String validation & formatting.  
+- **Util Library** → Helper functions (logging, formatting).  
+- **Date Library** → Date/time handling, login logs.  
+- **Validate Input Library** → Validates user input (e.g., positive numbers, valid dates).  
 
-    Manage Users
-        This menu includes the following subscreens:
-            List Users: Display all registered users.
-            Add New User: Add a new user to the system.
-            Delete User: Remove a user from the system.
-            Update User Info: Edit the details of a user.
-            Find User: Search for a user by their ID or username.
+---
 
-    Login Register
-        Users can register new usernames and passwords or edit existing ones.
+## 🚀 How to Use
 
-    Currency Exchange
-        This screen includes the following subscreens:
-            List Currencies: View all available currencies.
-            Find Currency: Search for a specific currency.
-            Update Rate: Change the exchange rate for a specific currency.
-            Currency Calculator: Calculate currency conversion between different currencies.
+1. **Start the application** → Run the executable.  
+2. **Login**  
+   - Enter username & password.  
+   - 3 wrong attempts → Program locks.  
+   - Success → Time logged & Main Menu displayed.  
+3. **Permissions**  
+   - User role defines available actions.  
+   - Example: Only admins can manage users.  
+4. **Main Menu** → Choose an option (clients, transactions, users, etc.).  
+5. **Logout** → Return to login screen.  
 
-    Logout
-        Returns the user to the login screen.
+---
 
-Submenu Functionality
+## ✅ Conclusion
+This project demonstrates how **OOP principles** can be applied in a real-world banking system with focus on **security** and **user permissions**.  
 
-    In any of the submenus mentioned above, users will also have the option to return to the main menu at any point.
+Feel free to **explore, contribute, and suggest improvements** 🎉  
 
-Libraries Used
-String Library
+---
 
-    The String Library contains several functions for string manipulation, including string validation, formatting, and other common string operations.
-    It is used extensively throughout the project to handle user inputs and output formatting.
+👨‍💻 Developed with ❤️ for learning and practice.
 
-Util Library
 
-    The Util Library provides various utility functions to streamline the operations of the banking system, such as formatting, logging, and other helper functions needed across the project.
 
-Date Library
-
-    The Date Library handles all date and time operations within the application, including logging the date and time of user login and other time-sensitive operations. It offers functions to work with and format dates efficiently.
-
-Validate Input Library
-
-    The Validate Input Library is used to validate user inputs throughout the application. It checks if the entered data meets predefined criteria (e.g., ensuring that numerical inputs are positive or that a valid date is entered), preventing errors and enhancing data integrity.
-
-How to Use
-
-    Start the Application:
-    Run the executable file to launch the bank system.
-
-    Login:
-        You will be prompted to enter your username and password.
-        If your credentials are incorrect three times, the program will lock for security.
-        If you enter the correct details, the system will log the time of the login and display the Main Menu.
-
-    Permissions:
-        Each user has a set of permissions defined by a bitwise flag.
-        Depending on your role and the permissions assigned, you will have access to different menu options.
-        The system checks these permissions before granting access to sensitive features (e.g., transferring funds or managing clients).
-
-    Main Menu:
-        From the Main Menu, choose from the available options (e.g., view client info, make transactions, manage users, etc.).
-        Each option may have submenus that further define actions for managing clients, transactions, users, etc.
-
-    Logout:
-        Once you're done, choose the Logout option to return to the login screen.
-
-Conclusion
-
-Thank you for checking out the Bank Project (OOP)! This project demonstrates how object-oriented principles can be applied to a real-world banking system, with an added focus on security and user permissions. I hope you find this project useful and insightful!
-
-Feel free to explore, contribute, and suggest improvements to make it even better!
