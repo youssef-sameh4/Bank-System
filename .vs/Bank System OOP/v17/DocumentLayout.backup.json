@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Bank System OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:Bank System OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsBankClint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsBankClint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsShowTransferList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsShowTransferList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\TransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:TransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsFindClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsFindClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsAddNewUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsAddNewUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeletClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsDeletClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDateLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsDateLogin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUpdateClient.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsUpdateClient.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\AddNewClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:AddNewClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5584CA2F-8918-4F1B-B758-8CADA0E4BC06}|Bank System OOP.vcxproj|solutionrelative:clsDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "clsMainScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsMainScreen.h",
+              "RelativeToolTip": "clsMainScreen.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-19T00:59:26.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsManageUsersScreen.h",
+              "RelativeToolTip": "clsManageUsersScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T04:49:19.578Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "clsLoginScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsLoginScreen.h",
+              "RelativeToolTip": "clsLoginScreen.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T14:27:58.661Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank System OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Bank System OOP.cpp",
+              "RelativeDocumentMoniker": "Bank System OOP.cpp",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Bank System OOP.cpp",
+              "RelativeToolTip": "Bank System OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T00:21:01.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsRegisterScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsRegisterScreen.h",
+              "RelativeDocumentMoniker": "clsRegisterScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsRegisterScreen.h",
+              "RelativeToolTip": "clsRegisterScreen.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T06:00:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "clsTransactionsScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsTransactionsScreen.h",
+              "RelativeToolTip": "clsTransactionsScreen.h",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAwHAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-19T00:05:58.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsBankClint.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsBankClint.h",
+              "RelativeDocumentMoniker": "clsBankClint.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsBankClint.h",
+              "RelativeToolTip": "clsBankClint.h",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwHEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T00:54:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUtil.h",
+              "RelativeDocumentMoniker": "clsUtil.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUtil.h",
+              "RelativeToolTip": "clsUtil.h",
+              "ViewState": "AgIAABEBAAAAAAAAAAAswCIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T23:42:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUser.h",
+              "RelativeDocumentMoniker": "clsUser.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUser.h",
+              "RelativeToolTip": "clsUser.h",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAwwJ4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T05:56:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsShowTransferList.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsShowTransferList.h",
+              "RelativeDocumentMoniker": "clsShowTransferList.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsShowTransferList.h",
+              "RelativeToolTip": "clsShowTransferList.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T06:22:51.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsListUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsListUsersScreen.h",
+              "RelativeDocumentMoniker": "clsListUsersScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsListUsersScreen.h",
+              "RelativeToolTip": "clsListUsersScreen.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T04:04:01.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\TransferScreen.h",
+              "RelativeDocumentMoniker": "TransferScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\TransferScreen.h",
+              "RelativeToolTip": "TransferScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T09:27:16.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "clsClientListScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsClientListScreen.h",
+              "RelativeToolTip": "clsClientListScreen.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T00:57:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsScreen.h",
+              "RelativeDocumentMoniker": "clsScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsScreen.h",
+              "RelativeToolTip": "clsScreen.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T00:09:50.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "clsWithdrawScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsWithdrawScreen.h",
+              "RelativeToolTip": "clsWithdrawScreen.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-19T04:09:55.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsFindClient.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsFindClient.h",
+              "RelativeDocumentMoniker": "clsFindClient.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsFindClient.h",
+              "RelativeToolTip": "clsFindClient.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T04:28:18.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsTotalBalancesScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsTotalBalancesScreen.h",
+              "RelativeDocumentMoniker": "clsTotalBalancesScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsTotalBalancesScreen.h",
+              "RelativeToolTip": "clsTotalBalancesScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T04:33:46.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsAddNewUser.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsAddNewUser.h",
+              "RelativeDocumentMoniker": "clsAddNewUser.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsAddNewUser.h",
+              "RelativeToolTip": "clsAddNewUser.h",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T04:20:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.txt",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Users.txt",
+              "RelativeDocumentMoniker": "Users.txt",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Users.txt",
+              "RelativeToolTip": "Users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-22T15:10:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Global.h",
+              "RelativeDocumentMoniker": "Global.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\Global.h",
+              "RelativeToolTip": "Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T15:11:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsDeletClient.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeletClient.h",
+              "RelativeDocumentMoniker": "clsDeletClient.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeletClient.h",
+              "RelativeToolTip": "clsDeletClient.h",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T04:10:31.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDate.h",
+              "RelativeDocumentMoniker": "clsDate.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDate.h",
+              "RelativeToolTip": "clsDate.h",
+              "ViewState": "AgIAAGkEAAAAAAAAAAAAAHQEAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T06:11:04.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsDateLogin.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDateLogin.h",
+              "RelativeDocumentMoniker": "clsDateLogin.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDateLogin.h",
+              "RelativeToolTip": "clsDateLogin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-23T05:55:18.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsString.h",
+              "RelativeDocumentMoniker": "clsString.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsString.h",
+              "RelativeToolTip": "clsString.h",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAAAHUBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T00:21:47.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T06:07:25.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsUpdateClient.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUpdateClient.h",
+              "RelativeDocumentMoniker": "clsUpdateClient.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsUpdateClient.h",
+              "RelativeToolTip": "clsUpdateClient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T17:19:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddNewClient.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\AddNewClient.h",
+              "RelativeDocumentMoniker": "AddNewClient.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\AddNewClient.h",
+              "RelativeToolTip": "AddNewClient.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T03:46:48.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "clsDeleteUserScreen.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T05:52:01.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsFindUserScreen.h",
+              "RelativeToolTip": "clsFindUserScreen.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T06:20:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "clsInputValidate.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsInputValidate.h",
+              "RelativeToolTip": "clsInputValidate.h",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T06:10:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsPerson.h",
+              "RelativeDocumentMoniker": "clsPerson.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsPerson.h",
+              "RelativeToolTip": "clsPerson.h",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-14T00:46:31.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsDeposit.h",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeposit.h",
+              "RelativeDocumentMoniker": "clsDeposit.h",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Bank System OOP\\clsDeposit.h",
+              "RelativeToolTip": "clsDeposit.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-19T01:13:31.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
